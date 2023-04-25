@@ -29,6 +29,6 @@ Tip: Run flutter pub get when introducing dependencies
 
 Download the entire folder to ensure smooth running of the application
 
-Reach out to me if you have anu queries
+Reach out to me if you have any queries
 
 Thank you for your attention!

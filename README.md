@@ -2,11 +2,13 @@
 
 Displays the temperature data in celcius scale and the city name upon entering a city name
 
-Uses OpenWeather API
-
-Works for Android and Web
+Uses OpenWeather API and Works for Android and Web
 
 A brief animation or presence of progress indicator exists between different queries
+
+You can find the APK file (app-release.apk) in the main branch of this repository
+
+The master branch contains the files of the project which can be downloaded or cloned to run on your system
 
 Desktop Layout:
 
@@ -15,8 +17,6 @@ Desktop Layout:
 Mobile Layout:
 
 ![WeatherApp Mobile](https://user-images.githubusercontent.com/99253243/234385141-8b9e0c90-cfea-4435-923e-b598aa123e4c.png)
-
-You can find the APK file (app-release.apk) in the main branch of this repository
 
 A few resources to get you started if this is your first Flutter project:
 

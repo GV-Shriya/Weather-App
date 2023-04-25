@@ -1,6 +1,6 @@
 # Weather App using Flutter Framework
 
-Displays the temperature data in celcius scale and the city name upon entering a city name
+Displays the temperature data in celsius scale and the city name upon entering a city name
 
 Uses OpenWeather API and Works for Android and Web
 

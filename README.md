@@ -6,7 +6,7 @@ Uses OpenWeather API
 
 Works for Android and Web
 
-A progress indicator exists between different queries
+A brief animation or presence of progress indicator exists between different queries
 
 Desktop Layout:
 

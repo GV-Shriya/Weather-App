@@ -16,6 +16,8 @@ Mobile Layout:
 
 ![WeatherApp Mobile](https://user-images.githubusercontent.com/99253243/234385141-8b9e0c90-cfea-4435-923e-b598aa123e4c.png)
 
+You can find the APK file in the following path: build\app\outputs\flutter-apk\
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
